@@ -9,8 +9,8 @@ import React, {Component} from 'react';
     }
     render() {
       return (
-          <div>
-             <h2>Your component works</h2>;
+          <div className="App">
+             <h1>John Lane</h1>
           </div>
       )
     }
